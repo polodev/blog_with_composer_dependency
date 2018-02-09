@@ -2,7 +2,6 @@
 // Require composer autoloader
 require __DIR__ . '/vendor/autoload.php';
 session_start();
-
 // Create Router instance
 $router = new \Bramus\Router\Router();
 
