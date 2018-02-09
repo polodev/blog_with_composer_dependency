@@ -1,0 +1,19 @@
+* first understanding mvc - r + essential package
+* adding routing bramus/router and .htaccess 
+* psr-4 autoloading and file autoloading using composer and showing routing using class method
+
+
+
+
+* adding validation in form
+
+
+## outside 
+
+* how to use altorouter
+* how to use bramus/router
+* how to use respect validation in php
+
+
+
+
